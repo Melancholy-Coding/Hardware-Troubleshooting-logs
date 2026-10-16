@@ -33,9 +33,9 @@ I follow a consistent, disciplined process for every hardware intervention:
 
 | Entry | Type / Date | Root Cause | Skills Demonstrated | Reference / Link |
 | :---: | :--- | :--- | :--- | :--- |
-| **01** | `[Retroactive]` | RAM not fully seated in slot A2 | DRAM, POST, UEFI | [View Log](./logs/01-dram-seating.md) |
-| **02** | `[Retroactive]` | Misaligned case standoffs found during pre-build | Installation, Compatibility | [View Log](./logs/02-pre-build-inspection.md) |
-| **03** | `[Real-time]` (Sep 2026) | Degraded thermal paste (~6–7 years old) | Thermal Diagnostics, RCA, Verification | [View Log](./logs/03-thermal-overhaul.md) |
+| **01** | `[Retroactive]` | RAM not fully seated in slot A2 | DRAM, POST, UEFI | [View Log](./Entry%201-%20Dram%20and%20POST%20troubleshooting.md) |
+| **02** | `[Retroactive]` | Misaligned case standoffs found during pre-build | Installation, Compatibility | [View Log](./Entry%2002%20PC%20Case%20Inspection.md) |
+| **03** | `[Real-time]` (Sep 2026) | Degraded thermal paste (~6–7 years old) | Thermal Diagnostics, RCA, Verification | [View Log](./Entry%2003%20-%20Thermal%20Subsystem%20Overhaul.md) |
 
 *New entries are structured using [TEMPLATE.md](./TEMPLATE.md).*
 
@@ -43,4 +43,4 @@ I follow a consistent, disciplined process for every hardware intervention:
 
 ## 📞 Contact & Professional Profile
 
-* **LinkedIn:** https://www.linkedin.com/in/bryan-sanchez-939667285?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+* **LinkedIn:** [Bryan Sanchez](https://www.linkedin.com/in/bryan-sanchez-939667285?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
