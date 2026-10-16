@@ -43,4 +43,4 @@ I follow a consistent, disciplined process for every hardware intervention:
 
 ## 📞 Contact & Professional Profile
 
-* **LinkedIn:** [Your Name / Profile URL](https://linkedin.com/in/your-profile)
+* **LinkedIn:** https://www.linkedin.com/in/bryan-sanchez-939667285?utm_source=share_via&utm_content=profile&utm_medium=member_ios
