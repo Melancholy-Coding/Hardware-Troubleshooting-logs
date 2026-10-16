@@ -1,7 +1,7 @@
 # Entry 01 — DRAM Seating & POST Failure Diagnosis
 
-**Log Type:** `[Retroactive]`  
-**Date:** [Approx. Month/Year]  
+**Log Type:** `Retroactive]`  
+**Date:** [June 2025]  
 **System Profile:** Custom Desktop PC Workstation ([Motherboard Model / RAM Type & Size, e.g., DDR4 16GB])  
 **Category:** Hardware Diagnostics / Memory & POST Subsystems  
 **Time to Diagnose & Repair:** [e.g., 15 Minutes]  
