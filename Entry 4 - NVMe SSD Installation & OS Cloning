@@ -1,28 +1,37 @@
 # Entry 04 — NVMe SSD Installation & OS Cloning (Desktop PC)
+
 **Log Type:** `[Retroactive]`  
 **Date:** December 2025  
 **System / Hardware Profile:** Desktop PC, ASUS B550 Motherboard (PCIe Gen 4 M.2 Slot), WD_BLACK SN770 1TB NVMe SSD (new), existing boot drive (source)  
 **Tools / Software:** EaseUS Disk Copy, Windows file transfer dialog, Steam download monitor, motherboard BIOS/UEFI setup  
-**Category:** Storage Upgrade / Data Migration / Hardware Installation
+**Category:** Storage Upgrade / Data Migration / Hardware Installation  
+
 ---
+
 ## 1. Objective & Purpose
 Upgrade the desktop PC's storage capacity and speed by installing a WD_BLACK SN770 1TB NVMe SSD and migrating the existing OS and data to it, avoiding a fresh OS reinstall.
+
 ## 2. Pre-Installation Checks
 * **Slot Compatibility:** Confirmed the ASUS B550 motherboard's M.2 slot supported PCIe Gen 4, matching the SN770's Gen 4 NVMe interface.
 * **Capacity Check:** Compared the existing drive's used capacity against the new 1TB SSD to confirm all data would fit.
 * **Data Protection:** Backed up critical data before touching any partitions.
+
 ## 3. Installation & Cloning Procedure
 1. **Physical Install:** Installed the new SN770 into the motherboard's M.2 slot.
 2. **OS & Data Migration:** Used EaseUS Disk Copy to clone the existing OS and data from the old drive to the new SSD.
 3. **Boot Configuration:** Entered the BIOS and verified the boot priority pointed to the new SSD.
+
 ## 4. Verification & Final Results
 * **Boot Test:** The system booted cleanly from the new SSD with no data loss.
 * **File Transfer Test:** Transferred a large volume of files and read the maximum transfer speed from the Windows copy dialog.
 * **Write Speed Test:** Downloaded several games through Steam and monitored the disk write speed during installation.
-* Both tests showed improved read/write performance compared to the previous drive.
+* *Result:* Both tests showed improved read/write performance compared to the previous drive.
+
 ## 5. Prevention & Best Practices
 * **Back Up First:** Always back up critical data before any partition or cloning work.
 * **Check Compatibility:** Verify M.2 slot generation, bandwidth, and drive capacity before installing.
+
 ---
+
 ## Skills Demonstrated
 `NVMe/M.2 SSD Installation` `Storage Upgrade` `Disk Cloning / OS Migration` `BIOS/UEFI Boot Configuration` `Data Backup` `Hardware Compatibility Verification` `Performance Verification`
